@@ -15,6 +15,7 @@ namespace TestGItHubRPR
         public Form1()
         {
             InitializeComponent();
+            int cislo = 0;
         }
     }
 }
